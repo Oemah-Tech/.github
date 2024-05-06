@@ -8,23 +8,22 @@
 
 </br>
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="50%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Oemah Tech 
 *Build solution with culture*
 <br /> 
               
-<p align="left">Deskripsi pengenalan organisasi.</p>
+<p align="justify">Oemah Tech adalah organisasi voluntir yang bertujuan untuk mengembangkan keterampilan dan pengetahuan di bidang teknologi informasi (TI) melalui pendidikan, proyek kolaboratif, pengabdian masyarakat, jaringan, dan mentoring. Kami menekankan keterbukaan dan inklusivitas serta berkomitmen untuk menciptakan lingkungan yang mendukung pertumbuhan dan kontribusi positif dalam dunia teknologi.</p>
 
-- ✨ Kita nyediain layanan apa aja sih?
-- a
-- b
-- c
-- d
-- e
-- f
-- g
+- 📖 Pendidikan TI
+- 🤝 Proyek Kolaboratif
+- 👨‍👩‍👧‍👦 Pengabdian Masyarakat
+- 📠 Jaringan dan Mentoring
+- 💼 Sumber Daya Online
+- 💡 Acara dan Kompetisi
+- 🛠️ Dukungan Teknis
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Oemah-Tech&label=Organization%20views&color=770677&style=for-the-badge&logo=star" alt="Oemah-Tech" style="padding-right:20px;" />
