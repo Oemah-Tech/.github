@@ -22,7 +22,6 @@
 - 👨‍👩‍👧‍👦 Pengabdian Masyarakat
 - 📠 Jaringan dan Mentoring
 - 💼 Sumber Daya Online
-- 💡 Acara dan Kompetisi
 - 🛠️ Dukungan Teknis
 
 <p align="left">
