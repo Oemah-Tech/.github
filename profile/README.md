@@ -34,16 +34,16 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" alt=x Whatsapp style="margin-bottom: 5px;" />
+<a href="https://discord.gg/St2rNApr" target="_blank">
+<img src="https://img.shields.io/badge/discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white" alt=oemah.tech Discord style="margin-bottom: 5px;" />
 </a>
   
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=x mail style="margin-bottom: 5px;" />
+<a href="oemahtechcp@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=oemahtechcp mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=x Instagram style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/oemah.tech/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=oemah.tech Instagram style="margin-bottom: 5px;" />
 </a>
 </div>
 
